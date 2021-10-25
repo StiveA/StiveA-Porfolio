@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/StiveA-Porfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/StiveA-Porfolio/static/js/main.6bc689e0.chunk.js",
-    "main.js.map": "/StiveA-Porfolio/static/js/main.6bc689e0.chunk.js.map",
-    "runtime-main.js": "/StiveA-Porfolio/static/js/runtime-main.cc57641c.js",
-    "runtime-main.js.map": "/StiveA-Porfolio/static/js/runtime-main.cc57641c.js.map",
-    "static/js/2.8833cd6e.chunk.js": "/StiveA-Porfolio/static/js/2.8833cd6e.chunk.js",
-    "static/js/2.8833cd6e.chunk.js.map": "/StiveA-Porfolio/static/js/2.8833cd6e.chunk.js.map",
-    "static/js/3.ff0311e9.chunk.js": "/StiveA-Porfolio/static/js/3.ff0311e9.chunk.js",
-    "static/js/3.ff0311e9.chunk.js.map": "/StiveA-Porfolio/static/js/3.ff0311e9.chunk.js.map",
+    "main.css": "/StiveA-Porfolio/static/css/main.2fb1360d.chunk.css",
+    "main.js": "/StiveA-Porfolio/static/js/main.4c367829.chunk.js",
+    "main.js.map": "/StiveA-Porfolio/static/js/main.4c367829.chunk.js.map",
+    "runtime-main.js": "/StiveA-Porfolio/static/js/runtime-main.c14e8bda.js",
+    "runtime-main.js.map": "/StiveA-Porfolio/static/js/runtime-main.c14e8bda.js.map",
+    "static/js/2.2e53cc7b.chunk.js": "/StiveA-Porfolio/static/js/2.2e53cc7b.chunk.js",
+    "static/js/2.2e53cc7b.chunk.js.map": "/StiveA-Porfolio/static/js/2.2e53cc7b.chunk.js.map",
     "index.html": "/StiveA-Porfolio/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/StiveA-Porfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.8833cd6e.chunk.js.LICENSE.txt": "/StiveA-Porfolio/static/js/2.8833cd6e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/StiveA-Porfolio/static/media/logo.6ce24c58.svg"
+    "static/css/main.2fb1360d.chunk.css.map": "/StiveA-Porfolio/static/css/main.2fb1360d.chunk.css.map",
+    "static/js/2.2e53cc7b.chunk.js.LICENSE.txt": "/StiveA-Porfolio/static/js/2.2e53cc7b.chunk.js.LICENSE.txt",
+    "static/media/code.a193d6d4.svg": "/StiveA-Porfolio/static/media/code.a193d6d4.svg",
+    "static/media/codepen.f757791e.svg": "/StiveA-Porfolio/static/media/codepen.f757791e.svg",
+    "static/media/css.560a3665.svg": "/StiveA-Porfolio/static/media/css.560a3665.svg",
+    "static/media/design.de0758db.svg": "/StiveA-Porfolio/static/media/design.de0758db.svg",
+    "static/media/dribbble.a97b66e1.svg": "/StiveA-Porfolio/static/media/dribbble.a97b66e1.svg",
+    "static/media/github.95ad9234.svg": "/StiveA-Porfolio/static/media/github.95ad9234.svg",
+    "static/media/html.76d192ef.svg": "/StiveA-Porfolio/static/media/html.76d192ef.svg",
+    "static/media/instagram.e9e78fbb.svg": "/StiveA-Porfolio/static/media/instagram.e9e78fbb.svg",
+    "static/media/javascript.dce2f756.svg": "/StiveA-Porfolio/static/media/javascript.dce2f756.svg",
+    "static/media/react.f431c7f4.svg": "/StiveA-Porfolio/static/media/react.f431c7f4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc57641c.js",
-    "static/js/2.8833cd6e.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.6bc689e0.chunk.js"
+    "static/js/runtime-main.c14e8bda.js",
+    "static/js/2.2e53cc7b.chunk.js",
+    "static/css/main.2fb1360d.chunk.css",
+    "static/js/main.4c367829.chunk.js"
   ]
 }
